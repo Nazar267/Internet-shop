@@ -1,0 +1,8 @@
+<?php
+
+return [
+    'host' => 'mytestovyisite.mysql.database.azure.com',
+    'dbname' => 'teststorephp',
+    'user' => 'nazar',
+    'password' => '1qaz!QAZ'
+];
